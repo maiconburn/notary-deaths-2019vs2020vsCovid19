@@ -3,6 +3,8 @@ The aim of this project is to try to understand what are the differences between
 
 ![Deaths registered in the Brazilian registry office due to pulmonary complications in 2019 and 2020 and Covid 19](https://res.cloudinary.com/dqpwiwwu2/image/upload/v1588309088/Covid19_8f95a0028d.png)
 
+DEMO https://notary-deaths-brazil.now.sh/
+
 ## How to try it?
 
 Clone this repository and follow the instructions below:
