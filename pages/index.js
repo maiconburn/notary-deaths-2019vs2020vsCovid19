@@ -16,7 +16,7 @@ export default function Home() {
         </h1>
 
         <p className={css.description}>
-        Analysis Covid 19 vs Notary Pulmonary complications deaths by API <a href="https://nextjs.org">Brasil.io</a><br/>
+        Analysis Covid 19 vs Notary Pulmonary complications deaths by API <a href="https://brasil.io/api/dataset/covid19/obito_cartorio/data/">Brasil.io</a><br/>
         Respecting 14 days of delay of the registry offices
         </p>
 
